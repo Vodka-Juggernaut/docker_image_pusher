@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 1panel/maxkb:latest
 1panel/maxkb:v1.3.1
-gptfast
-open-webui
+ghcr.io/open-webui/open-webui:main
